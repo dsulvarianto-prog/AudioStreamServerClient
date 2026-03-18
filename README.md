@@ -7,11 +7,11 @@ change hardware ke module MAX98357A
 
 MAX98357A Pin	ESP32 Physical Pin	Function
 
-LRC	 ------   GPIO 21	Left/Right Clock
-BCLK ------   GPIO 19	Bit Clock
-DIN	 ------   GPIO 18	Data Out
-GND	 ------   GND	Ground
-Vin	 ------   5V / VCC	Power 
+LRC	 GPIO 21	Left/Right Clock
+BCLK GPIO 19	Bit Clock
+DIN	 GPIO 18	Data Out
+GND	 GND	    Ground
+Vin	 5V / VCC	Power 
 
 Atau sesuaikan dengan kebutuhan
 
