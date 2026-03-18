@@ -7,16 +7,16 @@ change hardware ke module MAX98357A
 
 MAX98357A Pin	ESP32 Physical Pin	Function
 
-LRC	 GPIO 21	Left/Right Clock
-BCLK GPIO 19	Bit Clock
-DIN	 GPIO 18	Data Out
-GND	 GND	    Ground
-Vin	 5V / VCC	Power 
+LRC	 		GPIO 21			Left/Right Clock
+BCLK   		GPIO 19			Bit Clock
+DIN			GPIO 18			Data Out
+GND	 		GND	  			Ground
+Vin			5V / VCC			Power 
 
 Atau sesuaikan dengan kebutuhan
 
 
-dengan mengedit INO dan Python dengan menambahkan volume control
+Dengan mengedit INO dan Python dengan menambahkan volume control
 
 VOLUME CONTROL 
 1.0 = Original Volume
@@ -26,7 +26,7 @@ VOLUME_FACTOR = 0.2
 
 Rubah angka VOLUME FACTOR dan sesuaikan dengan kebutuhan.
 
-Ditanbahkan juga visual untuk memastikan music streaming monitoring lebih terlihat
+Ditambahkan juga visual untuk memastikan music streaming monitoring lebih terlihat
 VOLUME LEVEL VISUALIZER
 
 
@@ -47,3 +47,4 @@ Open server script with python!
 
 
 Semoga bermanfaat
+
