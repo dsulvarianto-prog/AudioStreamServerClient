@@ -3,6 +3,9 @@ menyuting dari bro mgi24
 di link : https://github.com/mgi24/AudioStreamServerClient
 
 
+change hardware ke module MAX98357A 
+(lebih banyak dan murah di pasaran, di toko ijo dan orange banyak yang jual )
+
 dengan mengedit INO dan Python dengan menambahkan volume control
 
 --- VOLUME CONTROL ---
